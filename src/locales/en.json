@@ -6,7 +6,17 @@
     "description": "Terrible Lizards Wiki is a fan-made guide hub for the dinosaur horror parkour game, covering beginner tips, creatures, story lore, release details, and survival strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players. Not affiliated with WDR Studios."
   },
-  "nav": {},
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "story": "Story",
+    "mechanics": "Mechanics",
+    "media": "Media",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Terrible Lizards Wiki - Dinosaur Guides & Gameplay",
@@ -397,7 +407,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -433,5 +442,33 @@
     "buildGuide": "Release & Platforms",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Terrible Lizards Beginner Guide & Walkthroughs",
+    "overviewDescription": "Start strong with Terrible Lizards beginner tips, a full walkthrough, secret locations, jumpscare warnings, and strategies for every boss encounter."
+  },
+  "release": {
+    "overviewTitle": "Terrible Lizards Release Date, Price & Platforms",
+    "overviewDescription": "Track the Terrible Lizards release date, demo, Steam and Xbox listings, PS5 availability, and current pricing before you buy."
+  },
+  "characters": {
+    "overviewTitle": "Terrible Lizards Dinosaurs, Monsters & Characters",
+    "overviewDescription": "Meet the Terrible Lizards roster: playable dinosaurs, hybrid creatures, monsters, the T-Rex, and the Dilophosaurus you will face in the park."
+  },
+  "story": {
+    "overviewTitle": "Terrible Lizards Story, Lore & Ending Explained",
+    "overviewDescription": "Follow the Terrible Lizards story from Route 66 to Dalton's Dinos, unpack the lore, and read the full ending explained."
+  },
+  "mechanics": {
+    "overviewTitle": "Terrible Lizards Gameplay, Co-op & Parkour Mechanics",
+    "overviewDescription": "Learn how Terrible Lizards plays: parkour movement, co-op and multiplayer support, horror encounters, and the core gameplay loop."
+  },
+  "media": {
+    "overviewTitle": "Terrible Lizards Trailers, Videos & Animation",
+    "overviewDescription": "Watch the Terrible Lizards official trailer, gameplay videos, and animation clips in one place."
+  },
+  "community": {
+    "overviewTitle": "Terrible Lizards Reddit & Discord Community",
+    "overviewDescription": "Find the Terrible Lizards Reddit and Discord communities for updates, tips, and player discussion."
   }
 }
