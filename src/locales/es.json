@@ -1,1 +1,474 @@
-{}
+{
+  "site": {
+    "name": "Terrible Lizards Wiki",
+    "shortName": "Terrible Lizards",
+    "tagline": "Guías de terror con dinosaurios, criaturas y walkthroughs",
+    "description": "Terrible Lizards Wiki es un centro de guías hecho por fans para el juego de parkour y terror con dinosaurios, con consejos para principiantes, criaturas, historia, detalles de lanzamiento y estrategias de supervivencia.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores. No está afiliada a WDR Studios."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "release": "Lanzamiento",
+    "characters": "Personajes",
+    "story": "Historia",
+    "mechanics": "Mecánicas",
+    "media": "Medios",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Terrible Lizards Wiki - Guías de dinosaurios y gameplay",
+      "description": "Explora Terrible Lizards Wiki con guías de dinosaurios, consejos de gameplay, información sobre criaturas y recursos útiles para ayudar a los jugadores a descubrir la aventura prehistórica."
+    },
+    "hero": {
+      "eyebrow": "Wiki de parkour y terror con dinosaurios",
+      "title": "Terrible Lizards Wiki",
+      "description": "Sobrevive a la abandonada atracción Dalton's Dinos en Terrible Lizards. Explora guías para principiantes, perfiles de criaturas, historia, detalles de lanzamiento y consejos de supervivencia para el juego de parkour y terror con dinosaurios.",
+      "stats": [
+        "Steam & PS5",
+        "Demo gratis",
+        "8 secciones de guías",
+        "Parkour de terror"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de criaturas",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Terrible Lizards",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles, las bases del parkour en primera persona y las reglas de supervivencia que te mantienen con vida durante tu primera hora en Dalton's Dinos."
+        },
+        {
+          "number": "2",
+          "title": "Movimiento parkour",
+          "description": "Encadena deslizamientos, saltos, patadas en pared y escaladas para mantener el impulso mientras rompes la línea de visión de un depredador."
+        },
+        {
+          "number": "3",
+          "title": "Jefes dinosaurio",
+          "description": "Estudia las fases de cada encuentro, los peligros de la arena y los puntos débiles de cada gran depredador que se interpone entre tú y la salida."
+        },
+        {
+          "number": "4",
+          "title": "Guía de criaturas",
+          "description": "Aprende qué dinosaurios acechan, flanquean o emboscan, y cómo contrarrestar cada arquetipo antes de que te encuentre primero."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Técnicas de parkour",
+        "Rutas de jefes",
+        "Niveles de criaturas",
+        "Todas las guías"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas para tu primera hora, desde los controles de movimiento hasta sobrevivir a la persecución inicial.",
+          "href": "/guide/terrible-lizards-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de todos los jefes",
+          "description": "Todos los grandes encuentros con dinosaurios con fases, telegrafiados, peligros de arena y puntos débiles.",
+          "href": "/guide/terrible-lizards-all-bosses"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Técnicas de movimiento parkour",
+          "description": "Deslizamientos, patadas en esquinas y trucos de impulso que superan a cualquier depredador.",
+          "href": "/mechanics/terrible-lizards-parkour"
+        },
+        {
+          "badge": "Popular",
+          "title": "Niveles de amenaza de dinosaurios",
+          "description": "Tiranosáuridos alfa, acechadores en manada y reptadores de emboscada clasificados por peligro.",
+          "href": "/characters/terrible-lizards-dinosaurs"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Secretos de la Ruta 66",
+          "description": "Rutas ocultas y pistas ambientales escondidas dentro de la atracción abandonada.",
+          "href": "/guide/terrible-lizards-secrets"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mecánicas de supervivencia de terror",
+          "description": "Sigilo, rastro de olor y sistemas de resistencia que deciden si escapas.",
+          "href": "/mechanics/terrible-lizards-horror-game"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de la demo gratis",
+          "description": "Qué incluye la vista previa jugable y cómo prepararte para el lanzamiento completo.",
+          "href": "/release/terrible-lizards-demo"
+        },
+        {
+          "badge": "Popular",
+          "title": "Historia y lore",
+          "description": "Dalton's Dinos, el personal desaparecido y los experimentos detrás del resurgimiento.",
+          "href": "/story/terrible-lizards-lore"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Análisis del tráiler oficial",
+          "description": "Análisis fotograma a fotograma de las criaturas, el clima y la física del barro mostrados hasta ahora.",
+          "href": "/media/terrible-lizards-official-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Terrible Lizards?",
+      "paragraphs": [
+        "Terrible Lizards es un juego de parkour y terror en primera persona desarrollado por WDR Studios en colaboración con JT Music. Los jugadores caen en las ruinas cubiertas de vegetación de Dalton's Dinos, una atracción abandonada de la Ruta 66, donde dinosaurios revividos genéticamente cazan todo lo que se mueve.",
+        "La supervivencia depende del impulso más que de la potencia de fuego: deslízate por pendientes, salta obstáculos bajos, impulsate en las paredes y sube a terreno elevado mientras vigilas tu resistencia y el ruido que haces. Esta wiki reúne rutas para principiantes, técnicas de parkour, niveles de amenaza de criaturas, estrategias de jefes, historia y detalles de lanzamiento en un solo lugar."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "WDR Studios"
+        },
+        {
+          "label": "Música",
+          "value": "JT Music"
+        },
+        {
+          "label": "Género",
+          "value": "Parkour de terror"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Route 66"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Demo",
+          "value": "Demo gratis"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Terrible Lizards Wiki",
+      "description": "Ocho secciones de guías cubren supervivencia para principiantes, movimiento parkour, amenazas dinosaurio, historia, información de lanzamiento, la demo gratis, requisitos del sistema y las últimas noticias.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Terrible Lizards",
+          "description": "Un walkthrough para principiantes de la primera hora: bases del movimiento, reglas de supervivencia y cómo leer el parque abandonado antes de la primera persecución.",
+          "href": "/guide/terrible-lizards-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Completa el tutorial de movimiento inicial para aprender los controles de sprint, salto y deslizamiento."
+            },
+            {
+              "label": "2",
+              "detail": "Viaja por tejados y andamios; el asfalto abierto te deja expuesto a las embestidas."
+            },
+            {
+              "label": "3",
+              "detail": "Camina agachado sobre las rejillas metálicas para mantener baja tu huella acústica."
+            },
+            {
+              "label": "4",
+              "detail": "Mantén siempre una reserva de resistencia para poder esprintar cuando un depredador se lance."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de gameplay de Terrible Lizards",
+          "description": "Cómo encajan los sistemas principales: desplazamiento basado en impulso, combate costoso, economía de resistencia y terreno que cambia cada persecución.",
+          "href": "/mechanics/terrible-lizards-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Movimiento",
+              "detail": "Parkour en primera persona basado en impulso, construido en torno a deslizamientos, saltos y patadas en pared."
+            },
+            {
+              "label": "Combate",
+              "detail": "Luchar contra un dinosaurio es un último recurso costoso; la posición y el momento importan más que el daño."
+            },
+            {
+              "label": "Resistencia",
+              "detail": "Esprintar drena rápido y hace ruido, mientras que trotar mantiene la velocidad sin el pico de ruido."
+            },
+            {
+              "label": "Terreno",
+              "detail": "Las pendientes y la elevación cambian tu velocidad, frenado y daño por caída en cada persecución."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de criaturas de Terrible Lizards",
+          "description": "Los dinosaurios de Dalton's Dinos, ordenados por amenaza para que sepas qué te acecha y cómo caza cada arquetipo.",
+          "href": "/characters/terrible-lizards-dinosaurs",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tiranosáuridos alfa con rastreo sísmico, destrucción ambiental y embestidas letales."
+            },
+            {
+              "label": "A",
+              "detail": "Acechadores en manada que usan flanqueo estilo raptor para cortar toda ruta de escape."
+            },
+            {
+              "label": "B",
+              "detail": "Reptadores de emboscada que caen de techos y conductos cuando se ignoran las señales de audio."
+            },
+            {
+              "label": "C",
+              "detail": "Merodeadores de plaza con amplios conos de visión que las rutas por tejados pueden romper."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de historia de Terrible Lizards",
+          "description": "La historia detrás de la atracción: Dalton's Dinos, el escenario de la Ruta 66, el personal desaparecido y los experimentos que trajeron de vuelta a las criaturas.",
+          "href": "/story/terrible-lizards-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Route 66",
+              "detail": "La atracción abandonada de carretera esconde décadas de deterioro y asuntos pendientes."
+            },
+            {
+              "label": "Dalton's",
+              "detail": "Dalton's Dinos era un parque familiar de dinosaurios antes de que el proyecto de resurgimiento saliera mal."
+            },
+            {
+              "label": "Desaparecidos",
+              "detail": "Los registros del personal y las notas dispersas apuntan a un equipo que nunca logró salir."
+            },
+            {
+              "label": "Lore",
+              "detail": "La narrativa ambiental vincula la América de neón con los experimentos con criaturas."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de lanzamiento de Terrible Lizards",
+          "description": "Ventanas de lanzamiento, tiendas y planes de plataformas para el juego de parkour y terror con dinosaurios.",
+          "href": "/release/terrible-lizards-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Plataforma principal de debut a través de tiendas digitales, con pruebas tempranas primero."
+            },
+            {
+              "label": "Steam",
+              "detail": "Añade la página de Steam a tu lista de deseados para ventanas de lanzamiento, notas de parche y anuncios."
+            },
+            {
+              "label": "PS5",
+              "detail": "Está previsto un port nativo para PlayStation 5 una vez que se estabilice la versión de PC."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Se apunta a una versión para Xbox Series X/S tras la fase de acceso anticipado en PC."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de la demo de Terrible Lizards",
+          "description": "Un vistazo dedicado a la vista previa jugable gratuita: qué incluye, cómo acceder y cómo usarla para prepararte para el lanzamiento.",
+          "href": "/release/terrible-lizards-demo",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Descarga la demo gratis desde su página de Steam y comprueba primero los requisitos."
+            },
+            {
+              "label": "2",
+              "detail": "Juega la persecución inicial para aprender el timing del deslizamiento, el salto y la patada en pared."
+            },
+            {
+              "label": "3",
+              "detail": "Estudia cómo reacciona cada dinosaurio antes de comprometerte con una ruta de demo."
+            },
+            {
+              "label": "4",
+              "detail": "Ajusta tus opciones gráficas en la demo para lograr una tasa de fotogramas estable."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Requisitos del sistema de Terrible Lizards",
+          "description": "Orientación de hardware para la versión de PC, donde la compleja IA de dinosaurios y los grandes mapas abiertos presionan tu sistema.",
+          "href": "/release/terrible-lizards-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CPU",
+              "detail": "La compleja IA de dinosaurios y los grandes mapas abiertos exigen un gran rendimiento de CPU."
+            },
+            {
+              "label": "GPU",
+              "detail": "La fidelidad gráfica prometida hace que una GPU moderna sea la otra mejora clave."
+            },
+            {
+              "label": "PC",
+              "detail": "La versión apunta a PC mediante tiendas digitales antes de que lleguen los ports de consola."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y actualizaciones de Terrible Lizards",
+          "description": "Tráilers, actualizaciones de los desarrolladores, notas de parche y descubrimientos de la comunidad reunidos en un solo lugar.",
+          "href": "/media/terrible-lizards-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráilers",
+              "detail": "Los análisis del tráiler oficial revelan clima dinámico, física del barro y comportamiento de las criaturas."
+            },
+            {
+              "label": "Parches",
+              "detail": "Los anuncios de Steam siguen los parches de equilibrio y las criaturas recién añadidas."
+            },
+            {
+              "label": "Discord",
+              "detail": "Los centros de la comunidad comparten rutas encontradas y reacciones a los parches en cuanto salen."
+            },
+            {
+              "label": "Reddit",
+              "detail": "Los speedrunners publican técnicas de movimiento y contadores de depredadores tras cada actualización."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Terrible Lizards.",
+      "items": [
+        {
+          "question": "¿Qué es Terrible Lizards?",
+          "answer": "Terrible Lizards es un juego de parkour y terror en primera persona de WDR Studios y JT Music. Los jugadores huyen de dinosaurios revividos genéticamente por las ruinas de Dalton's Dinos, una atracción abandonada de la Ruta 66."
+        },
+        {
+          "question": "¿Terrible Lizards es un juego de terror o un simulador de supervivencia con dinosaurios?",
+          "answer": "Terrible Lizards es ante todo un juego de parkour y terror. Sobrevives corriendo, escalando y rompiendo la línea de visión en lugar de gestionar el hambre o construir bases, así que el impulso y el sigilo importan más que los sistemas de simulación de supervivencia."
+        },
+        {
+          "question": "¿Puedes luchar contra los dinosaurios en Terrible Lizards?",
+          "answer": "El combate directo es un último recurso costoso en Terrible Lizards. La mayoría de los encuentros se ganan rompiendo la línea de visión, subiendo a terreno elevado y usando el entorno en lugar de quedarse plantado."
+        },
+        {
+          "question": "¿Dónde transcurre Terrible Lizards?",
+          "answer": "Terrible Lizards se ambienta en Dalton's Dinos, una atracción de carretera con temática de dinosaurios en decadencia en la Ruta 66. Los letreros de neón, los andamios del motel y las vallas oxidadas sirven a la vez como rutas de parkour y escondites."
+        },
+        {
+          "question": "¿Hay una demo gratis de Terrible Lizards?",
+          "answer": "Sí. Hay una demo gratis de Terrible Lizards disponible en Steam, que te permite probar la persecución inicial, las técnicas de movimiento y el comportamiento de las criaturas antes del lanzamiento completo."
+        },
+        {
+          "question": "¿En qué plataformas está Terrible Lizards?",
+          "answer": "Terrible Lizards debuta en PC a través de Steam, con ports para PlayStation 5 y Xbox Series X/S previstos tras estabilizarse la fase de acceso anticipado en PC."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para sobrevivir a Terrible Lizards?",
+      "description": "Desde tus primeros pasos por Dalton's Dinos hasta sobrevivir a cada encuentro con dinosaurios, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Terrible Lizards Wiki",
+    "about": "Terrible Lizards Wiki es un centro de guías independiente creado por fans que cubre consejos para principiantes, criaturas, historia, información de lanzamiento y conocimientos esenciales de supervivencia tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Terrible Lizards Wiki. No afiliada a WDR Studios.",
+    "description": "Juego de parkour y terror con dinosaurios ambientado en una atracción abandonada de la Ruta 66. Guías, criaturas, historia y consejos de supervivencia.",
+    "playGame": "Juega a Terrible Lizards en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Guía de criaturas",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de criaturas",
+    "bossGuides": "Guías de historia",
+    "buildGuide": "Lanzamiento y plataformas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guía para principiantes y walkthroughs de Terrible Lizards",
+    "overviewDescription": "Empieza con fuerza con los consejos para principiantes de Terrible Lizards, un walkthrough completo, ubicaciones secretas, avisos de sustos y estrategias para cada encuentro con jefes."
+  },
+  "release": {
+    "overviewTitle": "Fecha de lanzamiento, precio y plataformas de Terrible Lizards",
+    "overviewDescription": "Sigue la fecha de lanzamiento de Terrible Lizards, la demo, los listados de Steam y Xbox, la disponibilidad en PS5 y el precio actual antes de comprar."
+  },
+  "characters": {
+    "overviewTitle": "Dinosaurios, monstruos y personajes de Terrible Lizards",
+    "overviewDescription": "Conoce el plantel de Terrible Lizards: dinosaurios jugables, criaturas híbridas, monstruos, el T-Rex y el Dilophosaurus que encontrarás en el parque."
+  },
+  "story": {
+    "overviewTitle": "Historia, lore y final explicado de Terrible Lizards",
+    "overviewDescription": "Sigue la historia de Terrible Lizards desde la Ruta 66 hasta Dalton's Dinos, descifra el lore y lee el final completo explicado."
+  },
+  "mechanics": {
+    "overviewTitle": "Gameplay, cooperativo y mecánicas de parkour de Terrible Lizards",
+    "overviewDescription": "Aprende cómo se juega a Terrible Lizards: movimiento parkour, soporte cooperativo y multijugador, encuentros de terror y el bucle de gameplay principal."
+  },
+  "media": {
+    "overviewTitle": "Tráilers, vídeos y animación de Terrible Lizards",
+    "overviewDescription": "Ve el tráiler oficial de Terrible Lizards, vídeos de gameplay y clips de animación en un solo lugar."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Reddit y Discord de Terrible Lizards",
+    "overviewDescription": "Encuentra las comunidades de Reddit y Discord de Terrible Lizards para novedades, consejos y debate entre jugadores."
+  }
+}
